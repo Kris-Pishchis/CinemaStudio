@@ -1,0 +1,32 @@
+﻿<Window x:Class="CinemaStudio.View.MenuWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CinemaStudio"
+        mc:Ignorable="d"
+        Title="Авторизация" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*" />
+            <RowDefinition Height="Auto" />
+        </Grid.RowDefinitions>
+
+        <StackPanel Grid.Row="0" VerticalAlignment="Center" Width="300">
+            <Label Content="Выберите одно из пункта менью" HorizontalAlignment="Center" Margin="0,0,0,10"/>
+
+            <Button Content="Сотруднки"  HorizontalAlignment="Center" Width="150" Command="" CommandParameter="" Margin="0,0,0,10"/>
+            <Button Content="Проекты"  HorizontalAlignment="Center" Width="150" Command="" CommandParameter="" Margin="0,0,0,10"/>
+            <Button Content="Площадки"  HorizontalAlignment="Center" Width="150" Command="" CommandParameter="" Margin="0,0,0,10"/>
+            <Button Content="Съемочные группы"  HorizontalAlignment="Center" Width="150" Command="" CommandParameter="" Margin="0,0,0,10"/>
+            <Button Content="График съемок"  HorizontalAlignment="Center" Width="150" Command="" CommandParameter="" Margin="0,0,0,10"/>
+            <Button Content="Затраты"  HorizontalAlignment="Center" Width="150" Command="" CommandParameter="" Margin="0,0,0,10"/>
+            <Button Content="Прокат"  HorizontalAlignment="Center" Width="150" Command="" CommandParameter="" Margin="0,0,0,10"/>
+            
+
+        </StackPanel>
+        <StackPanel Grid.Row="1" Margin="0,0,20,20">
+            <Button Content="Выход" HorizontalAlignment="Right" Width="100"/>
+        </StackPanel>
+    </Grid>
+</Window>

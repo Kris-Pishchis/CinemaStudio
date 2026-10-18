@@ -1,0 +1,175 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PERTM\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\GitHubProjects\\CinemaStudio\\WPF\\CinemaStudio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A3ADAA01-1B4C-EFD5-3856-1032A8E6ECBB}|CinemaStudio\\CinemaStudio.csproj|c:\\users\\pertm\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\githubprojects\\cinemastudio\\wpf\\cinemastudio\\cinemastudio\\viewmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3ADAA01-1B4C-EFD5-3856-1032A8E6ECBB}|CinemaStudio\\CinemaStudio.csproj|solutionrelative:cinemastudio\\viewmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3ADAA01-1B4C-EFD5-3856-1032A8E6ECBB}|CinemaStudio\\CinemaStudio.csproj|c:\\users\\pertm\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\githubprojects\\cinemastudio\\wpf\\cinemastudio\\cinemastudio\\view\\menuwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A3ADAA01-1B4C-EFD5-3856-1032A8E6ECBB}|CinemaStudio\\CinemaStudio.csproj|solutionrelative:cinemastudio\\view\\menuwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3ADAA01-1B4C-EFD5-3856-1032A8E6ECBB}|CinemaStudio\\CinemaStudio.csproj|c:\\users\\pertm\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\githubprojects\\cinemastudio\\wpf\\cinemastudio\\cinemastudio\\view\\menuwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3ADAA01-1B4C-EFD5-3856-1032A8E6ECBB}|CinemaStudio\\CinemaStudio.csproj|solutionrelative:cinemastudio\\view\\menuwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3ADAA01-1B4C-EFD5-3856-1032A8E6ECBB}|CinemaStudio\\CinemaStudio.csproj|c:\\users\\pertm\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\githubprojects\\cinemastudio\\wpf\\cinemastudio\\cinemastudio\\viewmodel\\menuviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3ADAA01-1B4C-EFD5-3856-1032A8E6ECBB}|CinemaStudio\\CinemaStudio.csproj|solutionrelative:cinemastudio\\viewmodel\\menuviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3ADAA01-1B4C-EFD5-3856-1032A8E6ECBB}|CinemaStudio\\CinemaStudio.csproj|c:\\users\\pertm\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\githubprojects\\cinemastudio\\wpf\\cinemastudio\\cinemastudio\\services\\windowservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3ADAA01-1B4C-EFD5-3856-1032A8E6ECBB}|CinemaStudio\\CinemaStudio.csproj|solutionrelative:cinemastudio\\services\\windowservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3ADAA01-1B4C-EFD5-3856-1032A8E6ECBB}|CinemaStudio\\CinemaStudio.csproj|c:\\users\\pertm\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\githubprojects\\cinemastudio\\wpf\\cinemastudio\\cinemastudio\\view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A3ADAA01-1B4C-EFD5-3856-1032A8E6ECBB}|CinemaStudio\\CinemaStudio.csproj|solutionrelative:cinemastudio\\view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3ADAA01-1B4C-EFD5-3856-1032A8E6ECBB}|CinemaStudio\\CinemaStudio.csproj|c:\\users\\pertm\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\githubprojects\\cinemastudio\\wpf\\cinemastudio\\cinemastudio\\model\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3ADAA01-1B4C-EFD5-3856-1032A8E6ECBB}|CinemaStudio\\CinemaStudio.csproj|solutionrelative:cinemastudio\\model\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3ADAA01-1B4C-EFD5-3856-1032A8E6ECBB}|CinemaStudio\\CinemaStudio.csproj|c:\\users\\pertm\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\githubprojects\\cinemastudio\\wpf\\cinemastudio\\cinemastudio\\model\\accessright.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3ADAA01-1B4C-EFD5-3856-1032A8E6ECBB}|CinemaStudio\\CinemaStudio.csproj|solutionrelative:cinemastudio\\model\\accessright.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3ADAA01-1B4C-EFD5-3856-1032A8E6ECBB}|CinemaStudio\\CinemaStudio.csproj|c:\\users\\pertm\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\githubprojects\\cinemastudio\\wpf\\cinemastudio\\cinemastudio\\view\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3ADAA01-1B4C-EFD5-3856-1032A8E6ECBB}|CinemaStudio\\CinemaStudio.csproj|solutionrelative:cinemastudio\\view\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MenuWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\PERTM\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\GitHubProjects\\CinemaStudio\\WPF\\CinemaStudio\\CinemaStudio\\View\\MenuWindow.xaml.cs",
+              "RelativeDocumentMoniker": "CinemaStudio\\View\\MenuWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\PERTM\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\GitHubProjects\\CinemaStudio\\WPF\\CinemaStudio\\CinemaStudio\\View\\MenuWindow.xaml.cs",
+              "RelativeToolTip": "CinemaStudio\\View\\MenuWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-18T20:10:43.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MenuWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\PERTM\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\GitHubProjects\\CinemaStudio\\WPF\\CinemaStudio\\CinemaStudio\\View\\MenuWindow.xaml",
+              "RelativeDocumentMoniker": "CinemaStudio\\View\\MenuWindow.xaml",
+              "ToolTip": "C:\\Users\\PERTM\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\GitHubProjects\\CinemaStudio\\WPF\\CinemaStudio\\CinemaStudio\\View\\MenuWindow.xaml",
+              "RelativeToolTip": "CinemaStudio\\View\\MenuWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-18T20:10:47.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WindowService.cs",
+              "DocumentMoniker": "C:\\Users\\PERTM\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\GitHubProjects\\CinemaStudio\\WPF\\CinemaStudio\\CinemaStudio\\Services\\WindowService.cs",
+              "RelativeDocumentMoniker": "CinemaStudio\\Services\\WindowService.cs",
+              "ToolTip": "C:\\Users\\PERTM\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\GitHubProjects\\CinemaStudio\\WPF\\CinemaStudio\\CinemaStudio\\Services\\WindowService.cs",
+              "RelativeToolTip": "CinemaStudio\\Services\\WindowService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-18T20:00:19.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\PERTM\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\GitHubProjects\\CinemaStudio\\WPF\\CinemaStudio\\CinemaStudio\\ViewModel\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "CinemaStudio\\ViewModel\\MainViewModel.cs",
+              "ToolTip": "C:\\Users\\PERTM\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\GitHubProjects\\CinemaStudio\\WPF\\CinemaStudio\\CinemaStudio\\ViewModel\\MainViewModel.cs",
+              "RelativeToolTip": "CinemaStudio\\ViewModel\\MainViewModel.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA1wBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-18T19:09:53.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MenuViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\PERTM\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\GitHubProjects\\CinemaStudio\\WPF\\CinemaStudio\\CinemaStudio\\ViewModel\\MenuViewModel.cs",
+              "RelativeDocumentMoniker": "CinemaStudio\\ViewModel\\MenuViewModel.cs",
+              "ToolTip": "C:\\Users\\PERTM\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\GitHubProjects\\CinemaStudio\\WPF\\CinemaStudio\\CinemaStudio\\ViewModel\\MenuViewModel.cs",
+              "RelativeToolTip": "CinemaStudio\\ViewModel\\MenuViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-18T20:12:05.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\PERTM\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\GitHubProjects\\CinemaStudio\\WPF\\CinemaStudio\\CinemaStudio\\View\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "CinemaStudio\\View\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\PERTM\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\GitHubProjects\\CinemaStudio\\WPF\\CinemaStudio\\CinemaStudio\\View\\MainWindow.xaml",
+              "RelativeToolTip": "CinemaStudio\\View\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-18T18:56:58.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationContext.cs",
+              "DocumentMoniker": "C:\\Users\\PERTM\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\GitHubProjects\\CinemaStudio\\WPF\\CinemaStudio\\CinemaStudio\\Model\\ApplicationContext.cs",
+              "RelativeDocumentMoniker": "CinemaStudio\\Model\\ApplicationContext.cs",
+              "ToolTip": "C:\\Users\\PERTM\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\GitHubProjects\\CinemaStudio\\WPF\\CinemaStudio\\CinemaStudio\\Model\\ApplicationContext.cs",
+              "RelativeToolTip": "CinemaStudio\\Model\\ApplicationContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-18T19:42:17.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AccessRight.cs",
+              "DocumentMoniker": "C:\\Users\\PERTM\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\GitHubProjects\\CinemaStudio\\WPF\\CinemaStudio\\CinemaStudio\\Model\\AccessRight.cs",
+              "RelativeDocumentMoniker": "CinemaStudio\\Model\\AccessRight.cs",
+              "ToolTip": "C:\\Users\\PERTM\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\GitHubProjects\\CinemaStudio\\WPF\\CinemaStudio\\CinemaStudio\\Model\\AccessRight.cs",
+              "RelativeToolTip": "CinemaStudio\\Model\\AccessRight.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-18T19:38:28.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\PERTM\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\GitHubProjects\\CinemaStudio\\WPF\\CinemaStudio\\CinemaStudio\\View\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "CinemaStudio\\View\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\PERTM\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\GitHubProjects\\CinemaStudio\\WPF\\CinemaStudio\\CinemaStudio\\View\\MainWindow.xaml.cs",
+              "RelativeToolTip": "CinemaStudio\\View\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAuwBkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-18T18:56:52.914Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
