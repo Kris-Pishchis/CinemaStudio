@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CinemaStudio")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d9c9dd1663d74255637306b2787a24992d3f3286")]
 [assembly: System.Reflection.AssemblyProductAttribute("CinemaStudio")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CinemaStudio")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

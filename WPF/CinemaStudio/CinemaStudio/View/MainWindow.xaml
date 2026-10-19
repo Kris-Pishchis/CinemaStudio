@@ -10,9 +10,9 @@
         <StackPanel VerticalAlignment="Center" Width="300">
             <Label Content="Вход в систему" HorizontalAlignment="Center" Margin="0,0,0,10"/>
             <Label Content="Логин"/>
-            <TextBox Text="{Binding InputLogin, UpdateSourceTrigger=PropertyChanged}" Margin="0,0,0,5"/>
+            <TextBox Text="{Binding InputLogin}" Margin="0,0,0,5"/>
             <Label Content="Пароль"/>
-            <TextBox Text="{Binding InputPassword, UpdateSourceTrigger=PropertyChanged}" Margin="0,0,0,10"/>
+            <TextBox Text="{Binding InputPassword}" Margin="0,0,0,10"/>
             <Button Content="Вход"  HorizontalAlignment="Center" Width="100" Command="{Binding LoginCommand}" CommandParameter="{Binding RelativeSource={RelativeSource AncestorType=Window}}"/>
         </StackPanel>
     </Grid>

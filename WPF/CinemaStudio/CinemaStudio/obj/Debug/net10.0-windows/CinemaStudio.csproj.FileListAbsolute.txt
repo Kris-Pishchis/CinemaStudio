@@ -37,3 +37,6 @@ C:\Users\PERTM\Desktop\программирование\GitHubProjects\CinemaStu
 C:\Users\PERTM\Desktop\программирование\GitHubProjects\CinemaStudio\WPF\CinemaStudio\CinemaStudio\obj\Debug\net10.0-windows\ref\CinemaStudio.dll
 C:\Users\PERTM\Desktop\программирование\GitHubProjects\CinemaStudio\WPF\CinemaStudio\CinemaStudio\obj\Debug\net10.0-windows\View\MenuWindow.g.cs
 C:\Users\PERTM\Desktop\программирование\GitHubProjects\CinemaStudio\WPF\CinemaStudio\CinemaStudio\obj\Debug\net10.0-windows\View\MenuWindow.baml
+C:\Users\PERTM\Desktop\программирование\GitHubProjects\CinemaStudio\WPF\CinemaStudio\CinemaStudio\obj\Debug\net10.0-windows\View\StaffWindow.g.cs
+C:\Users\PERTM\Desktop\программирование\GitHubProjects\CinemaStudio\WPF\CinemaStudio\CinemaStudio\obj\Debug\net10.0-windows\View\StaffWindow.baml
+C:\Users\PERTM\Desktop\программирование\GitHubProjects\CinemaStudio\WPF\CinemaStudio\CinemaStudio\obj\Debug\net10.0-windows\CinemaStudio.sourcelink.json

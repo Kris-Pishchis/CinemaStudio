@@ -16,5 +16,7 @@ namespace CinemaStudio.Model
 
         [Column("password")]
         public string Password { get; set; } = string.Empty;
+
+        public ICollection<Staff> Staff { get; set; } = new List<Staff>();
     }
 }

@@ -15,13 +15,13 @@
         <StackPanel Grid.Row="0" VerticalAlignment="Center" Width="300">
             <Label Content="Выберите одно из пункта менью" HorizontalAlignment="Center" Margin="0,0,0,10"/>
 
-            <Button Content="Сотруднки"  HorizontalAlignment="Center" Width="150" Command="" CommandParameter="" Margin="0,0,0,10"/>
-            <Button Content="Проекты"  HorizontalAlignment="Center" Width="150" Command="" CommandParameter="" Margin="0,0,0,10"/>
-            <Button Content="Площадки"  HorizontalAlignment="Center" Width="150" Command="" CommandParameter="" Margin="0,0,0,10"/>
-            <Button Content="Съемочные группы"  HorizontalAlignment="Center" Width="150" Command="" CommandParameter="" Margin="0,0,0,10"/>
-            <Button Content="График съемок"  HorizontalAlignment="Center" Width="150" Command="" CommandParameter="" Margin="0,0,0,10"/>
-            <Button Content="Затраты"  HorizontalAlignment="Center" Width="150" Command="" CommandParameter="" Margin="0,0,0,10"/>
-            <Button Content="Прокат"  HorizontalAlignment="Center" Width="150" Command="" CommandParameter="" Margin="0,0,0,10"/>
+            <Button Content="Сотруднки"  HorizontalAlignment="Center" Width="150" Margin="0,0,0,10" Command="{Binding winStaffCommand}" CommandParameter="{Binding RelativeSource={RelativeSource AncestorType=Window}}"/>
+            <Button Content="Проекты"  HorizontalAlignment="Center" Width="150" Command="{Binding winProject}" CommandParameter="{Binding RelativeSource={RelativeSource AncestorType=Window}}" Margin="0,0,0,10"/>
+            <Button Content="Площадки"  HorizontalAlignment="Center" Width="150" Command="{Binding winPrice}" CommandParameter="{Binding RelativeSource={RelativeSource AncestorType=Window}}" Margin="0,0,0,10"/>
+            <Button Content="Съемочные группы"  HorizontalAlignment="Center" Width="150" Command="{Binding winFilmCrew}" CommandParameter="{Binding RelativeSource={RelativeSource AncestorType=Window}}" Margin="0,0,0,10"/>
+            <Button Content="График съемок"  HorizontalAlignment="Center" Width="150" Command="{Binding winСhart}" CommandParameter="{Binding RelativeSource={RelativeSource AncestorType=Window}}" Margin="0,0,0,10"/>
+            <Button Content="Затраты"  HorizontalAlignment="Center" Width="150"  Command="{Binding winCosts}" CommandParameter="{Binding RelativeSource={RelativeSource AncestorType=Window}}" Margin="0,0,0,10"/>
+            <Button Content="Прокат"  HorizontalAlignment="Center" Width="150" Command="{Binding winRental}" CommandParameter="{Binding RelativeSource={RelativeSource AncestorType=Window}}" Margin="0,0,0,10"/>
             
 
         </StackPanel>
